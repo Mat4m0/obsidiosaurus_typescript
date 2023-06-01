@@ -1,0 +1,22 @@
+[
+  {
+    "assets": {
+      "type": "assets"
+    }
+  },
+  {
+    "blog": {
+      "type": "blog"
+    }
+  },
+  {
+    "docs": {
+      "type": "docs"
+    }
+  },
+  {
+    "release_notes__blog": {
+      "type": "blog"
+    }
+  }
+]
